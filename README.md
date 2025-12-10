@@ -26,7 +26,6 @@ features, reducing costly late-stage design iterations.
 - `rtl/` – Verilog RTL modules
 - `ml/` – Jupyter notebook, datasets, and ML pipeline
 - `figures/` – Plots and workflow diagrams
-- `report/` – Final project report (PDF)
 
 ## How to Run
 1. Open `ml/rtl_timing_pipeline.ipynb`
