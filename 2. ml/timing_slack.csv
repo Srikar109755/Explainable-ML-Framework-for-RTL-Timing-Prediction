@@ -1,0 +1,6 @@
+﻿module_name,slack_ns
+adder16,7.551
+alu_simple,6.57
+counter_modN,8.305
+fsm_traffic,8.784
+pipeline_datapath,7.368
